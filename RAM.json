@@ -1,0 +1,42 @@
+{
+  "label": "RAM",
+  "bytes": 640,
+  "regions" : [
+    {
+      "label": "Alfa",
+      "bytes": 4,
+      "dataType": "integer",
+      "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Alfa.json"
+    },
+    {
+      "label": "Bravo",
+      "bytes": 40,
+      "dataType": "string",
+      "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Bravo.json"
+    },
+    {
+      "label": "Charlie",
+      "bytes": 456,
+      "dataType": "block",
+      "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Charlie.json"
+    },
+    {
+      "label": "Foxtrot",
+      "bytes": 29,
+      "dataType": "string",
+      "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Foxtrot.json"
+    },
+    {
+      "label": "Tango",
+      "bytes" : 70,
+      "dataType": "string",
+      "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Tango.json"
+    },
+    {
+      "label": "Kilo",
+      "bytes": 1,
+      "dataType": "boolean",
+      "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Kilo.json"
+    }
+  ]
+}

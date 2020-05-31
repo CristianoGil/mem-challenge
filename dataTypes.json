@@ -1,0 +1,6 @@
+[
+    { "name" : "string", "textualRepresentation": true},
+    { "name" : "integer", "textualRepresentation": true},
+    { "name" : "block", "textualRepresentation": false},
+    { "name" : "boolean", "textualRepresentation": true}
+]
