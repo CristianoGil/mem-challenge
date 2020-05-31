@@ -1,0 +1,6 @@
+{
+    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in ante metus dictum at tempor commodo.",
+    "binary" : [
+        120, 89, 84, 78, 15, 25, 45, 11, 65, 115, 15, 77, 10, 7, 99, 71, 66, 25, 93, 14, 105, 1, 0, 0, 78, 120, 89, 84, 78, 15, 25, 45, 11, 65, 115, 7, 99, 71, 66, 25, 77, 10, 7, 99, 71, 66, 25, 93, 14, 105, 1, 0, 0, 78, 120, 89, 84, 78, 15, 25, 45, 11, 65, 115, 7, 99, 71, 66, 25, 100
+    ]
+}

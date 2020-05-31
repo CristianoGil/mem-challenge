@@ -1,0 +1,34 @@
+{
+    "regions": [
+        {
+          "label": "Zone-1",
+          "bytes" : 150,
+          "dataType" : "block",
+          "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Charlie/Zone-1.json"
+        },
+        {
+          "label": "Zone-2",
+          "bytes" : 244,
+          "dataType" : "block",
+          "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Charlie/Zone-2.json"
+        },
+        {
+          "label": "Counter",
+          "bytes": 4,
+          "dataType": "integer",
+          "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Charlie/Counter.json"
+        },
+        {
+          "label": "Phrase",
+          "bytes": 35,
+          "dataType": "string",
+          "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Charlie/Phrase.json"
+        },
+        {
+          "label": "Zone-4",
+          "bytes": 110,
+          "dataType": "block",
+          "url":"https://gitlab.com/mem-challenge/json/-/raw/master/RAM/Charlie/Zone-4.json"
+        }
+    ]
+}
